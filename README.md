@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&text=Welcome%20My%20Git&animation=&fontColor=000000&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&text=Welcome&animation=&fontColor=000000&fontSize=70" />
 </p>
 
 ## 🧑‍💻 About Me
