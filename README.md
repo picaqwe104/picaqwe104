@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&text=Welcome%20JJH's%20Git&animation=&fontColor=000000&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&text=Welcome%20My%20Git&animation=&fontColor=000000&fontSize=70" />
 </p>
 
 ## 🧑‍💻 About Me
@@ -42,9 +42,4 @@
 ## 🖥️ BOJ Tier
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=picaqwe104)](https://solved.ac/picaqwe104)
-
-
-## 📨 Contact Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jeon____jh)
 
